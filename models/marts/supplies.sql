@@ -7,3 +7,5 @@ supplies as (
 )
 
 select * from supplies
+
+-- I've added a comment
