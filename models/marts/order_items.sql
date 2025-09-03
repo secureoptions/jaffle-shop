@@ -64,3 +64,5 @@ joined as (
 )
 
 select * from joined
+
+{# This is some comment! #}
